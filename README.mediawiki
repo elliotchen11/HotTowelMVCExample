@@ -13,6 +13,10 @@
 [http://durandaljs.com/documentation/Optimizing-On-Dot-Net/ Optimizing .Net]
 Requires: [http://nodejs.org/ Node.js]
 
+
+HttpContext.Current.IsDebuggingEnabled
+http://www.dotnetperls.com/isdebuggingenabled]
+
 === SignalR ===
 http://stackoverflow.com/questions/15261560/durandal-require-js-signalr-hubs-reference-not-found
 

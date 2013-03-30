@@ -1,3 +1,5 @@
 == A HotTowel MVC4 example (in VS2012) ==
 
 [http://www.johnpapa.net/hottowel/ John Papa]
+
+[https://github.com/vdmerweandre/HotTowelMVCExample GitHub]

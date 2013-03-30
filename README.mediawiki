@@ -2,4 +2,27 @@
 
 [http://www.johnpapa.net/hottowel/ John Papa]
 
+
+=== GitHub ===
 [https://github.com/vdmerweandre/HotTowelMVCExample GitHub]
+
+=== AppHarbor ===
+[https://appharbor.com/applications/hottowelmvcexample AppHarbor]
+
+=== Durandal ===
+[http://durandaljs.com/documentation/Optimizing-On-Dot-Net/ Optimizing .Net]
+Requires: [http://nodejs.org/ Node.js]
+
+=== SignalR ===
+http://stackoverflow.com/questions/15261560/durandal-require-js-signalr-hubs-reference-not-found
+
+=== Libraries ===
+#ASP.NET MVC
+#ASP.NET Web API
+#ASP.NET Web Optimization – bundling and minification
+#Breeze.js – rich data management
+#Durandal.js – navigation, app life cycle and View composition
+#Knockout.js – data bindings
+#Require.js – Modularity with AMD and optimization
+#Toastr.js – pop-up messages
+#Twitter Bootstrap – robust CSS styling
